@@ -10,7 +10,7 @@
             "azureActiveDirectory": {
                 "userDetailsClaim": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
                 "registration": {
-                    "openIdIssuer": "https://login.microsoftonline.com/4deb5487-e974-48c2-9af9-f879ed88c82e",
+                    "openIdIssuer": "https://login.microsoftonline.com/83dfadd6-4c71-4e9a-99f4-be1c0ff80971",
                     "clientIdSettingName": "AZURE_CLIENT_ID",
                     "clientSecretSettingName": "AZURE_CLIENT_SECRET"
                 }
